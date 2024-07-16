@@ -3,6 +3,8 @@
 With the lack of updates for Internet Cafe Simulator 2, it's apparent that many of the game's bugs will forever cripple the experience.
 I'll release new fixes as I find them. Feel free to report any bugs you'd like me to look at. I'm not great at this, but I'll do my best!
 
+Side note: I'm familiar with the basics of Github, but that's about it. If something goes unnoticed or is done incorrectly, please let me know so I can correct it.
+
 ## Bugs Squashed
 → Kawaii Coins subtract from total money when sold.
 
